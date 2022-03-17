@@ -7,7 +7,7 @@ import './showcase.css';
 const Showcase = () => {
 
     const {categoryItems, setCategoryItems} = useCategories();
-
+    console.log("from showcase.jsx", categoryItems)
     useEffect(()=>{
         (async ()=>{
             const { data: {categories} } = await axios.get("./api/categories")
