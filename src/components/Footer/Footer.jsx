@@ -25,13 +25,13 @@ const Footer = () => {
                         About Us
                     </li>
                     <li className="footer-item">
-                        <a href="#" className="footer-links">About</a>
+                        About
                     </li>
                     <li className="footer-item">
-                        <a href="#" className="footer-links">Payments</a>
+                        Payments
                     </li>
                     <li className="footer-item">
-                        <a href="#" className="footer-links">Shipping and Handling</a>
+                        Shipping and Handling
                     </li>
                 </ul>
 
@@ -40,16 +40,13 @@ const Footer = () => {
                         Find us on:
                     </li>
                     <li className="footer-item">
-                        <a className="footer-links" href="#" target="_blank"><i
-                                className="fab fa-github fa-lg social-icn"></i>Github</a>
+                        <i className="fab fa-github fa-lg social-icn"></i>Github
                     </li>
                     <li className="footer-item">
-                        <a className="footer-links" href="#" target="_blank"><i
-                                className="fab fa-twitter fa-lg social-icn"></i>Twitter</a>
+                        <i className="fab fa-twitter fa-lg social-icn"></i>Twitter
                     </li>
                     <li className="footer-item">
-                        <a className="footer-links" href="#" target="_blank"><i
-                                className="fab fa-linkedin fa-lg social-icn"></i>LinkedIn</a>
+                        <i className="fab fa-linkedin fa-lg social-icn"></i>LinkedIn
                     </li>
                 </ul>
 
@@ -59,21 +56,17 @@ const Footer = () => {
                     </li>
                     <div>
                         <li className="footer-item">
-                            <a className="footer-links" href="https://www.github.com/tanveertkd" target="_blank"><i
-                                    className="fab fa-github fa-lg social-icn"></i></a>
+                            <i className="fab fa-github fa-lg social-icn"></i>
                         </li>
                         <li className="footer-item">
-                            <a className="footer-links" href="https://www.linkedin.com/in/tanveer-hazarika/" target="_blank"><i
-                                    className="fab fa-linkedin fa-lg social-icn"></i></a>
+                            <i className="fab fa-linkedin fa-lg social-icn"></i>
                         </li>
                         <li className="footer-item">
-                            <a className="footer-links" href="https://twitter.com/HazarikaTanveer" target="_blank"><i
-                                    className="fab fa-twitter fa-lg social-icn"></i></a>
+                            <i className="fab fa-twitter fa-lg social-icn"></i>
                         </li>
 
                         <li className="footer-item">
-                            <a className="footer-links" href="https://tanveerswebsite.netlify.app/" target="_blank"><i
-                                    className="fas fa-globe fa-lg social-icn"></i></a>
+                            <i className="fas fa-globe fa-lg social-icn"></i>
                         </li>
                     </div>
                 </ul>

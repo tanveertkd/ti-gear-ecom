@@ -6,7 +6,7 @@ const Hero = () => {
             <div className="hero-body">
             <h3>Get all your training equipments all in one convienent place!</h3>
                 <button type="submit" className="hero-cta btn btn-primary-solid">
-                    <a href="#" className="hero-cta-btn-link">Shop Now!</a>
+                    Shop Now!
                 </button>
             </div>
             <div className="hero-asset">

@@ -14,7 +14,7 @@ const Showcase = () => {
             console.log("showcase from showcase.jsx", categories)
             setCategoryItems(categories)
         })()
-    },[])
+    },[setCategoryItems])
 
     return(
         <div className="showcase-body">
